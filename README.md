@@ -1,11 +1,10 @@
 ### Olá! Eu sou o Pietro Coelho ☺️
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroCoelho&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroCoelho&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
     <a href="https://github.com/PietroCoelho">
-        <img heigth="180em"
-            src="https://github-readme-stats.vercel.app/api?username=PietroCoelho&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-        <img heigth="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroCoelho&layout=compact&theme=dark&langs_count=16" />
 </div>
   
   <!--Tecnologias-->
