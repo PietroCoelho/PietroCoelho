@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pietro ⚡
 
-![Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroCoelho&show_icons=true&theme=highcontrast)
+<!-- ![Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroCoelho&show_icons=true&theme=highcontrast) -->
 
 <div align="center">
     <a href="https://github.com/PietroCoelho">
@@ -15,8 +15,7 @@
   <h3>Front-end</h3>
   <img align="center" alt="Pi-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Pi-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  
-<hr>
+  <hr>
   
   <h3>Contato</h3>
   <!--Contato-->
@@ -27,4 +26,4 @@
     <a href="https://api.whatsapp.com/send?phone=5585988992498" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
   </div>
         
-![Snake animation](https://github.com/PietroCoelho/PietroCoelho/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/PietroCoelho/PietroCoelho/blob/output/github-contribution-grid-snake.svg) -->
