@@ -5,7 +5,7 @@
 <div align="center">
     <a href="https://github.com/PietroCoelho">
 </div>
-  https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+
   <!--Tecnologias-->
   
   <div style="display: inline_block"><br>
