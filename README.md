@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pietro ⚡
 
-<!-- ![Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroCoelho&show_icons=true&theme=highcontrast) -->
+![Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroCoelho&show_icons=true&theme=highcontrast)
 
 <div align="center">
     <a href="https://github.com/PietroCoelho">
