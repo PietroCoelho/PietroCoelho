@@ -6,7 +6,6 @@
   <!--Tecnologias-->
   <h3>Tecnologias</h3>
   <div style="display: inline_block"><br>
-  <img align="left" height="250" alt="coding-time" src="code.gif">
   <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=3178C6" alt="PHP logo" title="PHP" height="25" />
   <img src="https://img.shields.io/badge/LARAVEL-282C34?logo=laravel&logoColor=3178C6" alt="LARAVEL logo" title="LARAVEL" height="25" />
   <img src="https://img.shields.io/badge/POSTGRESQL-282C34?logo=postgresql&logoColor=3178C6" alt="POSTGRESQL logo" title="POSTGRESQL" height="25" />
